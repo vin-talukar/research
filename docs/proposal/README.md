@@ -65,7 +65,7 @@ This in turn will lead to
 
 For a set of UX Analytics Metrics to be effective in an enterprise context, the primary research question that needs to be addressed is
 
-How can the effectiveness of a design be measured quantitatively through the use of analytics in an enterprise application context?
+**How can the effectiveness of a design be measured quantitatively through the use of analytics in an enterprise application context?**
 
 To address the primary question above the following secondary questions follow
 
