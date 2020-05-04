@@ -4,8 +4,12 @@ tags:
   - literature review
   - how to
 ---
+
+`This page is still work in progress`
+
 # The WHY, WHAT and HOW of Literature Reviews
 
+---
 #### Contents
 [[toc]]
 
@@ -19,7 +23,7 @@ Is a critical summary of relevant published works on a specific subject.
 - Ask your supervisor
 - Google Scholar / JSTOR / Researchgate / Library journal database / Quora /
 
-### Tips
+**Tips**
 - Broaden the search area
 - Use the right keywords
 - Explore them deeply
