@@ -3,17 +3,29 @@ tags:
   - best practices
   - literature review
   - how to
+  - needs review
 ---
 
-`This page is still work in progress`
+`Work in progress` `Needs review`
 
-# The WHY, WHAT and HOW of Literature Reviews
+[Home](/) > [Best practices](/guides/) > [Literature review](/guides/#literature-review)
+
+# How to conduct a literature review
 
 ---
 #### Contents
 [[toc]]
 
-Is a critical summary of relevant published works on a specific subject.
+**Literature review is a critical summary of relevant published works on a specific subject.**
+
+
+- Dont duplicate work already done
+- See what failed previously, if any, and dont make those mistakes
+- Understand best research methods in your domain
+- Demonstrate understanding
+- Justify and position your researching
+- Helps develop a theoretical framework
+-
 
 [Critical thinking](https://www.mscc.edu/documents/qep/qep.literature-review.pdf)
 
@@ -21,7 +33,7 @@ Is a critical summary of relevant published works on a specific subject.
 
 - Start with the major works you might already be aware of
 - Ask your supervisor
-- Google Scholar / JSTOR / Researchgate / Library journal database / Quora /
+- Google Scholar / JSTOR / ResearchGate / Library journal database / Quora /
 
 **Tips**
 - Broaden the search area

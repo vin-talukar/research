@@ -1,5 +1,5 @@
 module.exports = {
-  title : 'Quantifying UX',
+  title : 'Quantifying Enterprise UX',
   description : 'my journey into research',
   themeConfig: {
     algolia: {
@@ -10,8 +10,9 @@ module.exports = {
       { text: 'Home', link: '/'},
       { text: 'Proposal', link: '/proposal/'},
       { text: 'Literature review', link: '/litreview/'},
-      { text: 'Best practices', link: '/bestpractices/'},
-      { text: 'My story', link: '/mystory/'}
+      { text: 'Guides', link: '/guides/'},
+      { text: 'My story', link: '/mystory/'},
+      { text: 'All Notes', link: '/notes/'}
     ]
   },
   base: '/research/',

@@ -2,7 +2,7 @@
 
 # Literature review
 
-Following the [best practices of literature review](/bestpractices/literaturereview.md), I have listed below the following publications for review.
+Following the [best practices of literature review](/guides/literature_review/literaturereviewmethod.md), I have listed below the following publications for review.
 
 #### Contents
 [[toc]]
@@ -15,7 +15,25 @@ Following the [best practices of literature review](/bestpractices/literaturerev
 
 ## Candidate publications for review
 
-1.  Tom Tullis and Bill Albert. Measuring the User Experience [Source]()
+1.  Tom Tullis and Bill Albert. Measuring the User Experience [Source](https://learning.oreilly.com/library/view/measuring-the-user/9780124157811/)
+
+1. Jeff Sauro and James R. Lewis. Quantifying the User Experience : Practical Statistics for User Research. [Source](https://ebookcentral.proquest.com/lib/herts/detail.action?docID=4592083)
+
+1. Mike Kuniavsky. Observing the User Experience. [Source](https://learning.oreilly.com/library/view/observing-the-user/9781558609235/?ar/)
+
+1. Michael Beasley. Practical Web Analytics for User Experience. [Source](https://learning.oreilly.com/library/view/practical-web-analytics/9780124046191/?ar/)
+
+1. Caitlin Tan, Rochelle King, Elizabeth F Churchill. Designing with Data. [Source](https://learning.oreilly.com/library/view/designing-with-data/9781449334925/?ar/)
+
+1. Luke Hay. Researching UX: Analytics. [Source](https://learning.oreilly.com/library/view/researching-ux-analytics/9781492018391/)
+
+1. William Albert, Thomas Tullis, Donna Tedesco. Beyond the Usability Lab. [Source](https://learning.oreilly.com/library/view/beyond-the-usability/9780123748928/?ar/)
+
+1. Mike Fritz and Paul D. Berger. Improving the User Experience Through Practical Data Analytics : Gain Meaningful Insight and Increase Your Bottom Line [Source](https://ebookcentral.proquest.com/lib/herts/detail.action?docID=1990683)
+
+1. Angel, Gary. Measuring the digital world: using digital analytics to drive better digital experiences. [Source](https://learning.oreilly.com/library/view/measuring-the-digital/9780134195155/)
+
+1.  Pamela Pavliscak. Data-Informed Product Design. [Source](https://learning.oreilly.com/library/view/data-informed-product-design/9781492048688/)
 
 1.  Jeff Sauro, Erika Kindlund. (2005). A method to standardize usability metrics into a single score [Source](https://dl.acm.org/doi/abs/10.1145/1054972.1055028)
 
@@ -49,7 +67,7 @@ Following the [best practices of literature review](/bestpractices/literaturerev
 
 1.  InVision. (2015). 13 impressive statistics on user experience [Source]()
 
-## Sources to find literature
+## Sources on the internet for Measuring UX
 
 - [Measuring UX](https://measuringux.com/)
 - [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)

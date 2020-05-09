@@ -1,15 +1,15 @@
 ---
 home: true
 heroImage: /images/hero.png
-heroText: Quantifying UX
-tagline: A research project to figure out how can we measure UX through analytics, reducing the dependancy on a qualitative study.
+heroText: Quantifying Enterprise UX
+tagline: A research project to figure out how can we measure UX in enterprise software through analytics, reducing the dependancy on a qualitative study.
 actionText: The proposal →
 actionLink: /proposal/
 features:
 - title: What?
-  details: You know, the web analytics that we use to measure the engagement of users in websites? Wouldn't it be great if we had such stuff to measure UX!? Well, that's what this research is about!
+  details: You know, the web analytics that we use to measure the engagement of users on websites? Wouldn't it be great if we had such stuff to measure UX in the enterprise too!? Well, that's what this research is about!
 - title: Why?
-  details: Because then you can scale the usability studies and extend them to thousands of users. You can also uncover hidden patterns. And do cool stuff like automate UX itself! Opens up endless possibilities.
+  details: Consumers on the internet behave differently to enterprise users. Enterprise users have no choice of leaving a tool and hopping on to a different one. The metrics and methods needed to measure engagement of the general web don't apply well to them.
 - title: How?
   details: Well, that's a million dollar question, innit? Through my journey, I am hoping to find out a method and will publish it on this site.
 - title: About DDes
