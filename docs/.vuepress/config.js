@@ -9,10 +9,10 @@ module.exports = {
     nav:[
       { text: 'Home', link: '/'},
       { text: 'Proposal', link: '/proposal/'},
+      { text: 'Plan', link: '/plan/'},
       { text: 'Literature review', link: '/litreview/'},
       { text: 'Guides', link: '/guides/'},
-      { text: 'My story', link: '/mystory/'},
-      { text: 'All Notes', link: '/notes/'}
+      { text: 'Raw Notes', link: '/notes/'}
     ]
   },
   base: '/research/',

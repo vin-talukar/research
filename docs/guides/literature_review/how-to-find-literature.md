@@ -30,4 +30,10 @@ tags:
 - Identify the search terms
 - Search period
 - (Shouldn't there be a program that does the filtering?)
-- 
+- Search the above criteria in authoritative academic resources and publishers: ACM Digital Library, DBLP, ERIC, IEEEXplorer, ISI Web of Knowledge, JSTOR, ProQuest, Science Direct, SCOPUS.
+- Then search the same in databases
+- Summarise in a database for analysis
+
+### Data classification
+
+-

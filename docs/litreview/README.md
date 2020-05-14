@@ -2,7 +2,7 @@
 
 # Literature review
 
-Following the [best practices of literature review](/guides/literature_review/literaturereviewmethod.md), I have listed below the following publications for review.
+Following the [methodology documented here](methodology.md), I have listed below the following publications for review.
 
 #### Contents
 [[toc]]
@@ -11,9 +11,6 @@ Following the [best practices of literature review](/guides/literature_review/li
 `To be done`
 
 ## Shortlisted publications for review
-`To be done`
-
-## Candidate publications for review
 
 1.  Tom Tullis and Bill Albert. Measuring the User Experience [Source](https://learning.oreilly.com/library/view/measuring-the-user/9780124157811/)
 
@@ -66,6 +63,10 @@ Following the [best practices of literature review](/guides/literature_review/li
 1.  Wei Fang. (2007). Using Google Analytics for Improving Library Website Content and Design: A Case Study [Source]()
 
 1.  InVision. (2015). 13 impressive statistics on user experience [Source]()
+
+## Candidate publications for review
+`Need to list more`
+
 
 ## Sources on the internet for Measuring UX
 

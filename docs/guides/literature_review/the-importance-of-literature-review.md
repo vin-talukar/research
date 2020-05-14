@@ -19,8 +19,8 @@ tags:
 **Literature review is a critical summary of relevant published works on a specific subject.**
 
 
-- Dont duplicate work already done
-- See what failed previously, if any, and dont make those mistakes
+- Don't duplicate work already done
+- See what failed previously, if any, and don't make those mistakes
 - Understand best research methods in your domain
 - Demonstrate understanding
 - Justify and position your researching
@@ -30,3 +30,7 @@ tags:
 -
 
 [Critical thinking](https://www.mscc.edu/documents/qep/qep.literature-review.pdf)
+
+### Sources
+
+[Tips for effective literature searching and keeping up with new publications](https://www.editage.com/insights/tips-for-effective-literature-searching-and-keeping-up-with-new-publications)
