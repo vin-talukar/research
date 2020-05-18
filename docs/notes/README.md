@@ -11,3 +11,4 @@ This section is a list of all raw notes I have taken
 
 ## Literature review
 - [2020-05-09 Literature review](literature-review/2020-05-09-literature-review.md)
+- [2020-05-16 Charactersitics of literature reveiw](literature-review/2020-05-16-Charactersitics-of-literature-reveiw.md)

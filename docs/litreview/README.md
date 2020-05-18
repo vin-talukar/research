@@ -65,7 +65,8 @@ Following the [methodology documented here](methodology.md), I have listed below
 1.  InVision. (2015). 13 impressive statistics on user experience [Source]()
 
 ## Candidate publications for review
-`Need to list more`
+1. The elements of user experience
+1. 
 
 
 ## Sources on the internet for Measuring UX
@@ -73,3 +74,5 @@ Following the [methodology documented here](methodology.md), I have listed below
 - [Measuring UX](https://measuringux.com/)
 - [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
 - [Usability Metrics – A Guide To Quantify The Usability Of Any System](https://usabilitygeek.com/usability-metrics-a-guide-to-quantify-system-usability/)
+- [Architecting Usability](http://architectingusability.com)
+- [Usability Gov](https://www.usability.gov)
